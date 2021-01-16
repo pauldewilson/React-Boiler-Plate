@@ -1,0 +1,32 @@
+{
+  "name": "reactboilerplate",
+  "version": "1.0.0",
+  "description": "Bare-bones react boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"hello",
+    "server": "live-server ./public/",
+    "build": "webpack --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/preset-env": "^7.12.11",
+    "@babel/preset-react": "^7.12.10",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.0.1",
+    "live-server": "^1.2.1",
+    "node-sass": "^5.0.0",
+    "normalize-css": "^2.3.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass-loader": "^10.1.1",
+    "style-loader": "^2.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.15.0",
+    "webpack-cli": "^4.3.1"
+  }
+}
