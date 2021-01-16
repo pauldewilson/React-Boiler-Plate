@@ -6,6 +6,7 @@
 <ol>
     <li>Index.html file for React app to output (div id="appROOT")
     <li>Bundle.js into which all source files compile via webapp
+    <li>live-server to enable real-time editing
     <li>Normalize-css to ensure all css is working as expected
     <li>Source files folder containing
         <ul>
